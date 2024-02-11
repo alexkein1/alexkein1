@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexkein1
 - 👀 I’m interested in development of software or anything else
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Java, Kotlin
 - 💞️ I’m looking to collaborate on anything, if only there was an idea
 - 📫 How to reach me: On discord, alexkein
 
